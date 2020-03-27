@@ -1,0 +1,33 @@
+.Home{
+    /* background-image: url("https://i.pinimg.com/564x/e7/86/60/e78660705004b8887c02ce5860f9805a.jpg"); */
+    /* background-image: ("fondo.jpeg"); */
+    /* background-image: url("https://i.pinimg.com/564x/20/1d/ae/201dae259ad25b9cfa598812778720aa.jpg"); */
+    /* background-image: url("https://i.pinimg.com/564x/55/bf/f5/55bff550324ba37fd61f05ace2c35f1e.jpg"); */
+    /* background-image: url("https://i.pinimg.com/564x/25/f1/9e/25f19ee19efad87c89b92b64a5009e29.jpg"); */
+    /* background-image: url("https://i.pinimg.com/564x/53/d5/2c/53d52cbcfbf4f59312b0af34d9c8759d.jpg"); */
+    background-image: url("https://previews.123rf.com/images/annagarmatiy/annagarmatiy1708/annagarmatiy170800029/84626815-horizontal-fondo-azul-claro-decorado-con-motivos-florales-aviador-con-el-marco-y-el-ornamento-%C3%A9tnico-d.jpg");
+    /* height: 110vh; */
+}
+
+h1{
+    font-family: 'Lora', serif;
+    font-weight: bold Italic;
+
+}
+
+h2, p{
+    font-family: 'Kurale', serif;
+}
+
+
+#font-home{
+    font-size: 2em;
+}
+
+.font-home{
+    font-size: 1em;
+}
+
+.Navigation-link{
+    margin-right: 1em;
+}
